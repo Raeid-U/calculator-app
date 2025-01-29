@@ -148,4 +148,4 @@ The Student Grade Calculator is a tool that aids in computing final grades, GPA,
 
 ### Code Repository
 
-For the complete source code and more details, visit the [GitHub repository](https://github.com/Raeid-U/studentCalculatorApp.git).
+For the complete source code and more details, visit the [GitHub repository](https://github.com/Raeid-U/calculator-app.git).
